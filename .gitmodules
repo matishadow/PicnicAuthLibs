@@ -1,0 +1,3 @@
+[submodule "PicnicAuthLibDotNet"]
+	path = PicnicAuthLibDotNet
+	url = https://github.com/matishadow/PicnicAuthLibDotNet.git
