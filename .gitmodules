@@ -1,3 +1,6 @@
 [submodule "PicnicAuthLibDotNet"]
 	path = PicnicAuthLibDotNet
 	url = https://github.com/matishadow/PicnicAuthLibDotNet.git
+[submodule "PicnicAuthLibPy2.7"]
+	path = PicnicAuthLibPy2.7
+	url = https://github.com/matishadow/PicnicAuthLibPy2.7.git
