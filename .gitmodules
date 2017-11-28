@@ -4,3 +4,69 @@
 [submodule "PicnicAuthLibPy2.7"]
 	path = PicnicAuthLibPy2.7
 	url = https://github.com/matishadow/PicnicAuthLibPy2.7.git
+[submodule "PicnicAuthLibC"]
+	path = PicnicAuthLibC
+	url = https://github.com/matishadow/PicnicAuthLibC.git
+[submodule "PicnicAuthLibCpp"]
+	path = PicnicAuthLibCpp
+	url = https://github.com/matishadow/PicnicAuthLibCpp.git
+[submodule "PicnicAuthLibClojure"]
+	path = PicnicAuthLibClojure
+	url = https://github.com/matishadow/PicnicAuthLibClojure.git
+[submodule "PicnicAuthLibD"]
+	path = PicnicAuthLibD
+	url = https://github.com/matishadow/PicnicAuthLibD.git
+[submodule "PicnicAuthLibElixir"]
+	path = PicnicAuthLibElixir
+	url = https://github.com/matishadow/PicnicAuthLibElixir.git
+[submodule "PicnicAuthLibErlang"]
+	path = PicnicAuthLibErlang
+	url = https://github.com/matishadow/PicnicAuthLibErlang.git
+[submodule "PicnicAuthLibGo"]
+	path = PicnicAuthLibGo
+	url = https://github.com/matishadow/PicnicAuthLibGo.git
+[submodule "PicnicAuthLibGroovy"]
+	path = PicnicAuthLibGroovy
+	url = https://github.com/matishadow/PicnicAuthLibGroovy.git
+[submodule "PicnicAuthLibJava"]
+	path = PicnicAuthLibJava
+	url = https://github.com/matishadow/PicnicAuthLibJava.git
+[submodule "PicnicAuthLibJS"]
+	path = PicnicAuthLibJS
+	url = https://github.com/matishadow/PicnicAuthLibJS.git
+[submodule "PicnicAuthLibTS"]
+	path = PicnicAuthLibTS
+	url = https://github.com/matishadow/PicnicAuthLibTS.git
+[submodule "PicnicAuthLibKotlin"]
+	path = PicnicAuthLibKotlin
+	url = https://github.com/matishadow/PicnicAuthLibKotlin.git
+[submodule "PicnicAuthLibNim"]
+	path = PicnicAuthLibNim
+	url = https://github.com/matishadow/PicnicAuthLibNim.git
+[submodule "PicnicAuthLibObjectiveC"]
+	path = PicnicAuthLibObjectiveC
+	url = https://github.com/matishadow/PicnicAuthLibObjectiveC.git
+[submodule "PicnicAuthLibPerl"]
+	path = PicnicAuthLibPerl
+	url = https://github.com/matishadow/PicnicAuthLibPerl.git
+[submodule "PicnicAuthLibPHP"]
+	path = PicnicAuthLibPHP
+	url = https://github.com/matishadow/PicnicAuthLibPHP.git
+[submodule "PicnicAuthLibPy3.6"]
+	path = PicnicAuthLibPy3.6
+	url = https://github.com/matishadow/PicnicAuthLibPy3.6.git
+[submodule "PicnicAuthLibRuby"]
+	path = PicnicAuthLibRuby
+	url = https://github.com/matishadow/PicnicAuthLibRuby.git
+[submodule "PicnicAuthLibRust"]
+	path = PicnicAuthLibRust
+	url = https://github.com/matishadow/PicnicAuthLibRust.git
+[submodule "PicnicAuthLibVisualBasic"]
+	path = PicnicAuthLibVisualBasic
+	url = https://github.com/matishadow/PicnicAuthLibVisualBasic.git
+[submodule "PicnicAuthLibSwift"]
+	path = PicnicAuthLibSwift
+	url = https://github.com/matishadow/PicnicAuthLibSwift.git
+[submodule "PicnicAuthLibScala"]
+	path = PicnicAuthLibScala
+	url = https://github.com/matishadow/PicnicAuthLibScala.git
