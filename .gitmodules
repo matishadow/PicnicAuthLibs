@@ -55,9 +55,6 @@
 [submodule "PicnicAuthLibRuby"]
 	path = PicnicAuthLibRuby
 	url = https://github.com/matishadow/PicnicAuthLibRuby.git
-[submodule "PicnicAuthLibRust"]
-	path = PicnicAuthLibRust
-	url = https://github.com/matishadow/PicnicAuthLibRust.git
 [submodule "PicnicAuthLibVisualBasic"]
 	path = PicnicAuthLibVisualBasic
 	url = https://github.com/matishadow/PicnicAuthLibVisualBasic.git
