@@ -22,9 +22,6 @@
 [submodule "PicnicAuthLibErlang"]
 	path = PicnicAuthLibErlang
 	url = https://github.com/matishadow/PicnicAuthLibErlang.git
-[submodule "PicnicAuthLibGo"]
-	path = PicnicAuthLibGo
-	url = https://github.com/matishadow/PicnicAuthLibGo.git
 [submodule "PicnicAuthLibGroovy"]
 	path = PicnicAuthLibGroovy
 	url = https://github.com/matishadow/PicnicAuthLibGroovy.git
